@@ -1420,17 +1420,17 @@ b = 20 after function call_by_reference
 
 Enter details :
 
-Name ? :Bhupinder
+Name ? :jaskaran 
 
-ID ? :1914125
+ID ? :1914126
 
 Salary ?:15,00000000
 
 Entered detail is:
 
-Name: Bhupinder
+Name: jaskaran 
 
-Id: 1914125
+Id: 1914126
 
 Salary: 15,000000
 
